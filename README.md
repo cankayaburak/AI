@@ -8,7 +8,7 @@ check in with me at each phase so the result is mine, not generic.
 Here's my idea in one sentence:
 
 > [REPLACE THIS BRACKET WITH YOUR ONE-SENTENCE IDEA — example:
->  "A daily prayer + gratitude tracker for my mom who is 65 and not super techy."]
+>  "A daily to-do + gratitude tracker for my mom who is 65 and not super techy."]
 
 We'll go through 6 phases. After each phase, you stop and ask me to
 approve before moving on. Don't skip the check-ins.
