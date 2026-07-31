@@ -1,5 +1,4 @@
 # AI
-#This repository holds the guidance document for AI entrepreneurship workshops
 
 I'm in an AI Build Workshop. We'll build a small web app together in
 about 60 minutes. I'll be your director — you do the heavy work, but
