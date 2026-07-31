@@ -155,6 +155,7 @@ git commit -m "my v1 — ready for deploy"
 git push
 
 Then tell me: "Done. Pushed to main. Burak will deploy."
+
 Make it deployable to claudflare as a static workers
 
 
